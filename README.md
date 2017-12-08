@@ -5,10 +5,13 @@ This is the repository for the official [attract.studio](https://attract.studio)
 
 ## Development setup
 
+To start a dev server simply run:
+
 ```
-npm install
-gulp dev
+./gulp dev
 ```
+
+Currently the CSS is written as scss, while the html file has to be edited directly.
 
 ## Deployment
 
