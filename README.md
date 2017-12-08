@@ -16,6 +16,6 @@ Currently the CSS is written as scss, while the html file has to be edited direc
 ## Deployment
 
 ```
-./delpoy.sh attract.studio
+./delpoy.sh
 ```
 
